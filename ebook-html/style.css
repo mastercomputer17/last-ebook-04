@@ -1,0 +1,239 @@
+img {
+  max-width: 100%;
+  margin: 10px 0;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+}
+
+body {
+  font-family: 'Roboto' sans-serif;
+
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #f8f9fa;
+  color: #6c757d;
+}
+
+.icon-button {
+  cursor: pointer;
+  font-size: 36px;
+}
+
+.audio-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.trackbar {
+  width: 200px;
+  height: 5px;
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
+
+.navbar-toggler-icon {
+  background-color: rgb(255, 255, 255);
+  color: rgb(7, 6, 6);
+  border: 1px solid rgb(252, 252, 252);
+}
+
+.navbar-toggler {
+  margin-left: 20px;
+  color: rgb(3, 3, 3);
+}
+
+.navbar {
+  margin-left: 30px;
+  padding-top: 10px;
+}
+
+.navbar-toggler {
+  margin-left: 20px !important;
+  /* Fuerza el desplazamiento */
+  color: rgb(5, 5, 5) !important;
+  /* Asegura que el texto o ícono sea blanco */
+
+}
+
+
+
+
+
+.navbar-toggler-icon {
+  border: 2px solid rgb(247, 241, 241);
+  /* Añade un borde alrededor del ícono */
+  /* Opcional: Haz el borde circular */
+  padding: 10px;
+  /* Ajusta el espacio entre el ícono y el borde */
+  display: inline-block;
+  /* Asegura que el ícono y el borde se vean correctamente */
+}
+
+
+.lilita-one-regular {
+  font-family: "Lilita One";
+  font-weight: 40px;
+  font-style: normal;
+}
+
+h2 {
+
+  font-size: 35px;
+
+  font-family: 'pacifico';
+  color: black;
+}
+
+.container {
+  border-radius: 20px;
+
+}
+
+.text-center {
+  font-size: 75px;
+  font-family: pacifico;
+
+}
+
+img {
+
+  width: 80%;
+  height: auto;
+  max-width: 80%;
+  border-radius: 20px;
+  max-width: 80%;
+  object-fit: cover;
+  margin-left: 57px;
+
+
+}
+
+#a-menu {
+
+  font-size: 35px;
+}
+
+/* to very h4 i have to take off for they be able to work in sigil and library */
+
+ul,
+ol {
+  font-size: 25px;
+  margin-left: 50px;
+}
+
+a {
+
+  font-size: 27px;
+  font-family: pacifico;
+  color: black;
+
+}
+
+h2 {
+  font-size: 35px;
+}
+
+h6 {
+  font-size: 2em;
+  margin-left: 50px;
+  margin-bottom: 3%;
+}
+
+.navbar-nav {
+
+  margin-bottom: 0%;
+  font-size: 50px;
+
+}
+
+h5 {
+  font-family: pacifico;
+  color: black;
+  font-size: 45px;
+  margin-left: 50px;
+  margin-bottom: 0%;
+}
+
+h4 {
+
+  font-size: 35px;
+  margin-left: 50px;
+}
+
+#footer0 {
+
+  font-size: 20px;
+  border-radius: 20px;
+}
+
+#footer1 {
+
+  font-size: 17px;
+}
+
+#footer2 {
+
+  font-size: 20px;
+
+}
+
+#indice {
+
+  margin-left: 55px;
+}
+
+#menu {
+
+  font-size: 42px;
+  margin-left: 120px;
+}
+
+#indice2 {
+
+  margin-left: 210px;
+  font-size: 4em;
+}
+
+p {
+  font-size: 20px;
+}
+
+
+@media (max-width:768px) {
+
+  nav ul {
+
+    flex-direction: column;
+    align-items: center;
+  }
+
+  h2,
+  h3,
+  p text-center {
+
+    font-size: 1.5em;
+    align-items: center;
+  }
+
+  .text-center {
+
+    font-size: 5em;
+    padding: 10px;
+    text-align: center;
+  }
+
+  img {
+
+    max-width: 150%;
+  }
+
+
+
+}

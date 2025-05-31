@@ -1,0 +1,50 @@
+  <div style="padding-top: 90px;"></div>
+    <h5>Chapitre 6 :déjeuners</h5>
+    <article class="my-4">
+    
+    
+        <div class="align-items">
+    
+            <h6>
+                Flan à la vanille</h6>
+            <a href="#indice">Retour au
+                menu</a>
+            <div class="col-md">
+                <img src="flan.png" alt="Flan">
+            </div>
+            <div class="col-md">
+
+                    <!-- the title -->
+
+                    <h4 >Ingrédients:</h4>
+                    <ul >
+                        <li>1 Canette de lait condensé </li>
+                        <li>1 Canette de lait évaporé </li>
+                        <li>6 Oeufs</li>
+                        <li>1 tbsp</li>
+                        <li>3/4 Cup Sucre blanc granulé</li>
+                    </ul>
+                    <h4 >Pasos:</h4>
+                    <ol>
+                        <li>Dans le mixeur, mettez les œufs, le lait condensé, le lait évaporé et la vanille.</li>
+
+                        <li>Dans une petite marmite, ajoutez le sucre et mélangez pendant 15 minutes maximum, jusqu'à ce
+                            qu'il devienne
+                            doré. Ensuite, versez-le dans le moule, suivi du mélange préparé dans le mixeur.</li>
+
+                        <li>Préchauffez le four à 350°C.</li>
+
+                        <li>Remplissez un récipient avec de l'eau chaude et placez-le dans le four.</li>
+
+                        <li>Placez le moule contenant le mélange dans ce récipient pour une cuisson au bain-marie.</li>
+
+                        <li>Posez le tout dans le four et laissez cuire pendant 40 minutes.</li>
+                    </ol>
+
+
+
+                </div>
+
+            </div>
+
+        </article>
